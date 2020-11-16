@@ -1,4 +1,5 @@
-## makeCacheMatrix: This function creates a special "matrix" object that can cache its solve. 
+## makeCacheMatrix: This function creates a special "matrix" object that can cache 
+## its solve. 
 
 makeCacheMatrix <- function(x=matrix()) { 
       matr <- NULL
